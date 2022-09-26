@@ -106,7 +106,7 @@ export default class Table extends Component {
                 <td>
                   {this.state.selected?.id === value.id ? (
                     <>
-                      <button>save</button>
+                      <button>Save</button>
                       <button>cancel</button>
                     </>
                   ) : (
