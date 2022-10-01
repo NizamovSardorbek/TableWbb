@@ -23,7 +23,7 @@ class Crud extends Component {
         },
         {
           id: 2,
-          name: "Sardor",
+          name: "Sardorbek",
           age: 17,
         },
         {
