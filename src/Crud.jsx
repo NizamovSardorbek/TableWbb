@@ -18,7 +18,7 @@ class Crud extends Component {
       data: [
         {
           id: 1,
-          name: "Sardor",
+          name: "Sardorbek",
           age: 21,
         },
         {
